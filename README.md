@@ -1,7 +1,5 @@
 # 🎮 Hangman Game (C++ Windows Forms)
 
-A classic desktop Hangman game with a modern twist! Built using C++/CLI and Windows Forms, this game challenges players to guess the hidden word before the stickman is fully drawn. 
-
 ## 📸 Screenshot
 <img width="448" height="600" alt="image" src="https://github.com/user-attachments/assets/cc4abb9a-f860-41bb-9c3e-e1fe1cda84b8" />
 <img width="447" height="603" alt="image" src="https://github.com/user-attachments/assets/076d2d8c-c8f7-4eeb-8800-cfdc35b2469b" />
